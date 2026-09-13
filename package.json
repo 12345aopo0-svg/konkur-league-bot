@@ -2,5 +2,7 @@
   "name": "konkur-league-bot",
   "version": "1.0.0",
   "private": true,
-  "dependencies": {}
+  "scripts": {
+    "start": "node index.js"
+  }
 }
